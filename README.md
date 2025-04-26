@@ -1,0 +1,1 @@
+# solved-java-applications--cp2406-practicals
